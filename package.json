@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "author": "kyoncy_site",
   "license": "MIT",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
   "devDependencies": {
     "@snowpack/app-scripts-react": "^1.2.0",
     "@types/react": "^16.9.36",
